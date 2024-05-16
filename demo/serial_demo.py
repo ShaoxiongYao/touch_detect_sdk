@@ -23,7 +23,7 @@ EXIT_SUCCESS = 0
 EXIT_FAILURE = 1
 
 # Device port to connect.
-SERIAL_PORT = 'COM38'
+SERIAL_PORT = '/dev/ttyUSB0'
 
 # Update rate of checking keyboard input.
 LOOP_RATE_SEC = 0.010
